@@ -8,3 +8,13 @@ npm-debug.log*
 
 # Environment
 .env
+.env*.local
+
+# Coverage
+coverage/
+
+# Build outputs
+tmp/
+out/
+
+# Next.js
