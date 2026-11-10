@@ -18,3 +18,13 @@ tmp/
 out/
 
 # Next.js
+.next/
+.swc/
+.turbo/
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
+*.swp
