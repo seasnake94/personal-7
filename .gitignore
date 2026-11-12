@@ -28,3 +28,11 @@ tsconfig.tsbuildinfo
 .idea/
 .vscode/
 *.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local browser-automation output
+.playwright-mcp/
